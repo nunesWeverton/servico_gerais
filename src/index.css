@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* O Tailwind v4 já traz um reset básico (Preflight), 
+   mas você pode manter seus estilos personalizados abaixo: */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb;
+}
